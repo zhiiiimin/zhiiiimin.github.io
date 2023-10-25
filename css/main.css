@@ -1,0 +1,148 @@
+body {
+  background-color: #ffffff;
+  background-image: url(../img/bk.svg);
+  background-size: cover;
+}
+.topbar {
+  background-color: #474747;
+  padding: 11px 120px;
+}
+.topbar ul {
+  display: inline-block;
+  vertical-align: middle;
+}
+.contact {
+  vertical-align: middle;
+}
+.contact li {
+  display: inline-block;
+  color: #ffffff;
+  font-family: "dm sans";
+  padding-right: 20px;
+}
+.contact img {
+  vertical-align: middle;
+  padding-right: 5px;
+}
+.social {
+  display: inline-block;
+  vertical-align: middle;
+  width: calc(100vw - 590px);
+}
+.social li {
+  vertical-align: middle;
+  margin-right: 5px;
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  background-color: #f9f9f71f;
+  float: right;
+}
+.menu {
+  padding: 11px 120px;
+  background-color: #ffffff;
+}
+.left {
+  display: inline-block;
+  vertical-align: middle;
+  text-align: left;
+}
+.left img {
+  margin: 5px;
+  vertical-align: middle;
+}
+.middle {
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  margin: 0px 100px;
+  position: relative;
+}
+.middle li {
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  padding: 0px 20px;
+  margin: 5px;
+}
+.middle a {
+  text-decoration: none;
+  color: #474747;
+  padding: 15px 20px;
+  margin: 5px;
+}
+.middle a:hover {
+  background-color: #dbdfd0;
+  border-radius: 118px;
+  width: 100px;
+  height: 50px;
+}
+.button {
+  width: calc(100% - 1350px);
+  display: inline-block;
+  vertical-align: middle;
+  text-align: right;
+}
+.button :hover {
+  border-width: 0px;
+  background-color: #ad343e;
+  color: #ffffff;
+}
+
+button {
+  width: 100px;
+  height: 50px;
+  text-align: center;
+  font-weight: 1000;
+  background-color: #ffffff;
+  border-radius: 118px;
+  border-width: 2px;
+}
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+}
+h1 {
+  font-weight: 600;
+  font-size: 70px;
+  color: #474747;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.p1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+p1 {
+  font-weight: 600;
+  color: #474747;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+#b1 {
+  margin-right: 10px;
+}
+.button2 :hover {
+  border-width: 0px;
+  background-color: #ad343e;
+  color: #ffffff;
+}
