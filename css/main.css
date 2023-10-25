@@ -31,37 +31,7 @@ body {
 }
 .social li {
   vertical-align: middle;
-  padding-right: 8px;
-}
-.menu ul li {
-  display: inline-block;
-  position: relative;
-}
-.topbar ul li {
-  display: inline-block;
-  position: relative;
-}
-.one {
-  padding-right: 12px;
-}
-.two {
-  padding-left: 12px;
-}
-.twitter {
-  width: 30px;
-  height: 30px;
-  background-color: #f9f9f71f;
-  vertical-align: center;
-  border-radius: 100%;
-}
-.fb {
-  width: 30px;
-  height: 30px;
-  background-color: #f9f9f71f;
-  vertical-align: center;
-  border-radius: 100%;
-}
-.ig {
+  margin-right: 5px;
   width: 30px;
   height: 30px;
   border-radius: 100%;
